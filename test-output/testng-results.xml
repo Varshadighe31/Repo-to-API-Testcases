@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13079" started-at="2020-09-08T13:06:06 IST" finished-at="2020-09-08T13:06:19 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13079" started-at="2020-09-08T13:06:06 IST" finished-at="2020-09-08T13:06:19 IST">
+      <class name="ApiTests.WheatherGetRequest">
+        <test-method status="PASS" signature="Test01()[pri:0, instance:ApiTests.WheatherGetRequest@20cece0b]" name="Test01" duration-ms="5463" started-at="2020-09-08T13:06:06 IST" finished-at="2020-09-08T13:06:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test01 -->
+        <test-method status="PASS" signature="Test02()[pri:0, instance:ApiTests.WheatherGetRequest@20cece0b]" name="Test02" duration-ms="1758" started-at="2020-09-08T13:06:11 IST" finished-at="2020-09-08T13:06:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test02 -->
+        <test-method status="PASS" signature="Test03()[pri:0, instance:ApiTests.WheatherGetRequest@20cece0b]" name="Test03" duration-ms="2439" started-at="2020-09-08T13:06:13 IST" finished-at="2020-09-08T13:06:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test03 -->
+        <test-method status="PASS" signature="Test04()[pri:0, instance:ApiTests.WheatherGetRequest@20cece0b]" name="Test04" duration-ms="1410" started-at="2020-09-08T13:06:15 IST" finished-at="2020-09-08T13:06:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test04 -->
+        <test-method status="PASS" signature="Test05()[pri:0, instance:ApiTests.WheatherGetRequest@20cece0b]" name="Test05" duration-ms="1864" started-at="2020-09-08T13:06:17 IST" finished-at="2020-09-08T13:06:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test05 -->
+      </class> <!-- ApiTests.WheatherGetRequest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
